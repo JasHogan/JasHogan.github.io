@@ -1,0 +1,50 @@
+﻿html {
+    background-color: black;
+    font-size: 10px; /* px means 'pixels': the base font size is now 10 pixels high  */
+    }
+
+h1 {
+    margin: 0;
+    padding: 0px 0 20px;
+    text-shadow: 3px 3px 2px black;
+    color: forestgreen;
+    font-size: 60px;
+    text-align: center;
+    font-family: 'Luckiest Guy', cursive;
+}
+
+.intro-txt {
+    margin: 10 auto 0;
+    padding: 0;
+    font-size: 16px;
+    text-align: center;
+    font-family: 'Cutive', serif;
+}
+
+.intro-txt2 {
+    margin: 0 auto 25px;
+    padding: 0px auto 50px;
+    font-size: 11px;
+    text-align: center;
+    font-family: 'Cutive', serif;
+}
+
+p {
+    font-size: 16px;
+    line-height: 6px;
+    letter-spacing: inherit;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: rgba(73, 73, 80, 1);
+    padding: 0 20px 20px 20px;
+    border: 5px solid grey;
+}
+
+img {
+    width: 600px;
+}
